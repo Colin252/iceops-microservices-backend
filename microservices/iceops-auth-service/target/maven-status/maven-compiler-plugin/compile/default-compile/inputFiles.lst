@@ -1,0 +1,9 @@
+C:\Dev\react\iceops-auth-service\src\main\java\com\iceops\auth\IceopsAuthServiceApplication.java
+C:\Dev\react\iceops-auth-service\src\main\java\com\iceops\auth\controller\AuthController.java
+C:\Dev\react\iceops-auth-service\src\main\java\com\iceops\auth\dto\AuthResponse.java
+C:\Dev\react\iceops-auth-service\src\main\java\com\iceops\auth\service\AuthService.java
+C:\Dev\react\iceops-auth-service\src\main\java\com\iceops\auth\user\UserEntity.java
+C:\Dev\react\iceops-auth-service\src\main\java\com\iceops\auth\dto\RegisterRequest.java
+C:\Dev\react\iceops-auth-service\src\main\java\com\iceops\auth\config\SecurityConfig.java
+C:\Dev\react\iceops-auth-service\src\main\java\com\iceops\auth\user\UserRepository.java
+C:\Dev\react\iceops-auth-service\src\main\java\com\iceops\auth\dto\LoginRequest.java

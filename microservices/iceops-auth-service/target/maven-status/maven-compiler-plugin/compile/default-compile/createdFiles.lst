@@ -1,0 +1,6 @@
+com\iceops\auth\IceopsAuthServiceApplication.class
+com\iceops\auth\service\AuthService.class
+com\iceops\auth\user\UserEntity.class
+com\iceops\auth\config\SecurityConfig.class
+com\iceops\auth\user\UserRepository.class
+com\iceops\auth\controller\AuthController.class
