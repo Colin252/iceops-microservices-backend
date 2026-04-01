@@ -1,4 +1,3 @@
-
 package com.iceops.order.publisher;
 
 import com.iceops.order.config.RabbitMQConfig;
@@ -18,7 +17,8 @@ public class OrderEventPublisher {
     public void publishOrderCreated(OrderCreatedEvent event) {
 
         rabbitTemplate.convertAndSend(
-                RabbitMQConfig.ORDER_QUEUE,
+                RabbitMQConfig.EXCHANGE,
+                RabbitMQConfig.ROUTING_KEY,
                 event
         );
     }
